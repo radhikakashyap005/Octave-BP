@@ -1,0 +1,21 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css");
+@import url("https://docket.kartmax.in/sites/7lcOi3kEBgRVHB0R5iIq/font-icons/fonts/7lcoi3kebgrvhb0r5iiq.css");
+
+.navbar {
+    background-color: black;
+}
+
+a {
+    color: white;
+
+}
+
+a :hover {
+    background-color: none;
+}
+
+.nav>li>a:hover {
+    text-decoration: none;
+    background-color: transparent;
+    list-style: none;
+}
